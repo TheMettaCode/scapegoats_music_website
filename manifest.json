@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1b1b1b",
-    "theme_color": "#ffcc00",
+    "theme_color": "#1b1b1b",
     "description": "Official website for SCAPEGOATS™ Music Services",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
