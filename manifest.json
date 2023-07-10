@@ -1,11 +1,11 @@
 {
-    "name": "MettaCode Developers",
-    "short_name": "MettaCode",
+    "name": "SCAPEGOATS™ Music Services",
+    "short_name": "SCAPEGOATS",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#ffffff",
-    "description": "Official MettaCode Developer Website.",
+    "background_color": "#1b1b1b",
+    "theme_color": "#ffcc00",
+    "description": "Official website for SCAPEGOATS™ Music Services",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
